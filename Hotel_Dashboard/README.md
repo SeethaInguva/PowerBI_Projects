@@ -1,20 +1,17 @@
-## 📊 Hotel Booking Dashboard – Velora Hotel
+## 📊 Velora StayMetrics – Hotel Booking Dashboard
 
-This Power BI dashboard provides an overview of key metrics for Velora Hotel, including:
+This Power BI dashboard visualizes key hotel performance metrics such as booking trends, revenue, occupancy, and customer loyalty segmentation.
 
-- **Booking Count**: 5K total bookings
-- **Cancellation Rate**: 28.7%
-- **Total Revenue**: $1M
-- **Total Rooms Booked**: 9K
-- **Average Room Revenue**: $14x (truncated in screenshot)
+> 🧠 **Built by following a tutorial from YouTube**  
+Tutorial Credit: [otel Bookings Dashboard with Power BI](https://www.youtube.com/watch?v=qjzjYurmb5s&t=4915s)
 
-It also breaks down:
-- Booking trends over time
-- Weekday vs weekend stay patterns
-- Booking lead times
-- Loyalty levels of customers and booking channels
-
-The visual helps in identifying customer behavior patterns and optimizing room occupancy strategy.
+### 🔍 Dashboard Highlights
+- 📅 Booking trends by day and week
+- 💸 Revenue and average room earnings
+- 📉 Cancellation rates
+- 🌍 Booking lead times and customer origin
+- 🧑‍🤝‍🧑 Loyalty level analysis and preferred booking channels
 
 ![Hotel Booking Dashboard](Hotel%20Dashboard.png)
+
 
