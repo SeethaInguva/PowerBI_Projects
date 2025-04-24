@@ -2,9 +2,6 @@
 
 This Power BI dashboard visualizes key hotel performance metrics such as booking trends, revenue, occupancy, and customer loyalty segmentation.
 
-> 🧠 **Built by following a tutorial from YouTube**  
-Tutorial Credit: [Hotel Bookings Dashboard with Power BI](https://www.youtube.com/watch?v=qjzjYurmb5s&t=4915s)
-
 ### 🔍 Dashboard Highlights
 - 📅 Booking trends by day and week
 - 💸 Revenue and average room earnings
@@ -14,4 +11,5 @@ Tutorial Credit: [Hotel Bookings Dashboard with Power BI](https://www.youtube.co
 
 ![Hotel Booking Dashboard](Hotel%20Dashboard.png)
 
-
+> 🧠 **Built by following a tutorial from YouTube**  
+Tutorial Credit: [Hotel Bookings Dashboard with Power BI](https://www.youtube.com/watch?v=qjzjYurmb5s&t=4915s)
